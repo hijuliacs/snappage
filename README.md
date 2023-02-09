@@ -1,4 +1,4 @@
-<h1 align="center">Página Snap, sobre Trabalho Remoto</h1>
+<h1 align="center">Snap | Remote Work Page</h1>
 <div align="center">
 <img height="400cm" src="https://user-images.githubusercontent.com/119365652/209045901-a18b0379-0ecd-4c7e-a81e-5d3cdef785ea.gif">
 </div>
