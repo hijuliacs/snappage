@@ -4,8 +4,8 @@
 </div>
 <br>
 
-<h2 align="center">Informações</h2>
-<p align="center">Codei esta página a partir de um desafio proposto pelo site Frontend Mentor e como um teste para uma oportunidade de emprego. Utilizei somente HTML e CSS e terminei tudo em 2 dias.</p>
+<h2 align="center">Info</h2>
+<p align="center">I coded this page from a challenge proposed by Frontend Mentor website and as a test for a job opportunity. I used only HTML and CSS and finished everything in 2 days.</p>
 <br>
 
 <div align="center">
@@ -13,9 +13,9 @@
 </div>
 <br>
 
-<h2 align="center">Aprendizado</h2>
-<p align="center">Houveram algumas coisas que não consegui fazer devido ao meu atual nível de conhecimento em programação, mas entreguei o que consegui. O desafio incluía fazer um menu dropdown e deixar a página responsiva, mas, apesar de ter tentado, eu não fui capaz disso.</p>
+<h2 align="center">What I Learned</h2>
+<p align="center">There were some things I couldn't do due to my current level of programming knowledge, but I delivered what I could. The challenge included making a dropdown menu and adding responsiveness to the page, but despite trying, I couldn't do it.</p>
 <br>
 
 <h2 align="center">Deploy</h2>
-<p align="center">Veja e interaja com o projeto clicando <a href="https://hijuliacs.github.io/snappage/">aqui</a>.</p>
+<p align="center">View and interact with the project by clicking <a href="https://hijuliacs.github.io/snappage/">here</a>.</p>
