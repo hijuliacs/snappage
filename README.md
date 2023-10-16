@@ -5,7 +5,7 @@
 <br>
 
 <h2 align="center">Sobre</h2>
-<p align="center">Esse projeto foi proposto pelo site Frontent Mentor e eu o fiz como teste para uma vaga de emprego.</p>
+<p align="center">Esse projeto foi proposto pelo site Frontend Mentor e eu o fiz como teste para uma vaga de emprego.</p>
 <br>
 
 <div align="center">
