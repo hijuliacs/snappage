@@ -4,8 +4,8 @@
 </div>
 <br>
 
-<h2 align="center">Info</h2>
-<p align="center">I coded this page from a challenge proposed by Frontend Mentor website and as a test for a job opportunity. I used only HTML and CSS and finished everything in 2 days.</p>
+<h2 align="center">Sobre</h2>
+<p align="center">Esse projeto foi proposto pelo site Frontent Mentor e eu o fiz como teste para uma vaga de emprego.</p>
 <br>
 
 <div align="center">
@@ -13,9 +13,5 @@
 </div>
 <br>
 
-<h2 align="center">What I Learned</h2>
-<p align="center">There were some things I couldn't do due to my current level of programming knowledge, but I delivered what I could. The challenge included making a dropdown menu and adding responsiveness to the page, but despite trying, I couldn't do it.</p>
-<br>
-
 <h2 align="center">Deploy</h2>
-<p align="center">View and interact with the project by clicking <a href="https://hijuliacs.github.io/snappage/">here</a>.</p>
+<p align="center">Veja e interaja com o projeto clicando <a href="https://hijuliacs.github.io/snappage/">aqui</a>.</p>
